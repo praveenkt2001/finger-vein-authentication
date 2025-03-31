@@ -36,7 +36,7 @@ This project is based on the research paper:
 - Add RNN for temporal pattern analysis
 
 ## 🧑‍💻 Contributors
-- [Your Name]
+- Praveen Kumar Thabjul
 
 ## 🔗 License
 MIT License
